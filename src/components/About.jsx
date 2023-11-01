@@ -14,6 +14,7 @@ return(
 								</header>
 								
 								<p><span className="image left"><img src="../assets/images/pic08.jpg" alt="" /></span> 
+								
 									<p>born in 1990 in Santiago, Chile. I firmly believe that web design has the potential to be more diverse and, above all, inspiring. My approach is based on the belief that every website can be a masterpiece of creativity and functionality. Through my experience and passion, I seek to elevate web design to a higher level, constantly exploring new ideas and approaches.
 									</p>
 									<p>
