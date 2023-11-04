@@ -4,10 +4,15 @@ export const Projx= () => {
 
     return (
       <>
+                
 				<div id="main" className="wrapper style1">
+                    
 					<div className="container">
                         <section id="one" className="projJumbo style2 right">
                             <span className="image fit main"><img src="..\assets\images\pic06.jpg" alt="" /></span>
+                         
+
+							
                             <div className="content">
                                 <header>
                                     <h3>Samodata Landing Page</h3>
