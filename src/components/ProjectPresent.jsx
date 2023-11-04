@@ -10,7 +10,7 @@ export const ProjectPresent = () => {
 								<h2>Projects (Desing & Develop)</h2>
 
 							</header>
-								<p>.</p>
+				
 								<p>
 									Currently my knowledge includes:
 									<li>Html5, Css3 & Js</li>
@@ -20,9 +20,7 @@ export const ProjectPresent = () => {
 									<li>Nodejs</li>
 									
 								</p>
-								<p>.</p>
-								<p>.</p>
-								<hr/>
+	
 
 
 						</section>
