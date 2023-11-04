@@ -402,6 +402,11 @@ input, select, textarea {
 		margin-right: 15px;
 	 }
 
+	 .content {
+
+		text-align: center;
+	 }
+
 
 /* Loader */
 
